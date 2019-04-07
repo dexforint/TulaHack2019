@@ -1,0 +1,6 @@
+opencv
+numpy
+imutils
+pytesseract
+speech_recognition
+selenium
